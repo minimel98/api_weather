@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">api-meteo</string>
+
+    <string name="title">Rechercher une ville</string>
+    <string name="weather_of_today">Météo du %s à %s</string>
+    <string name="temperature_max">Max : %.1f°C</string>
+    <string name="temperature_min">Min : %.1f°C</string>
+    <string name="wind_speed">Vent : %.2f km/h SSE</string>
+    <string name="humidity">Humidité : %.0f </string>
+    <string name="previsibilite">Prévisibilité : %.0f</string>
+</resources>
